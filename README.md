@@ -7,5 +7,9 @@
 - 완성본
   https://ekkk1126.github.io/nomad_vanillaJSChallenge/
 
+
+  ![nomadJSChanllege](https://github.com/ekkk1126/nomad_vanillaJSChallenge/assets/115553490/10c55bf1-d543-4d40-915e-1583e5c3c773)
+
+
   
   
