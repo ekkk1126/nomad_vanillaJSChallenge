@@ -1,5 +1,5 @@
 # nomad_vanillaJSChallenge
-바닐라JS로 크롬앱 만들기 by nomadcoders
+[바닐라JS로 크롬앱 만들기 by nomadcoders](https://nomadcoders.co/vanillajs-challenge)
 
 <br />
 
@@ -9,11 +9,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
 </div>
-
-<br />
-
-## 📚 참고 자료
-[바닐라 JS로 크롬 앱 만들기 노마드 코더](https://nomadcoders.co/vanillajs-challenge)
 
 <br />
 
